@@ -1,0 +1,6 @@
+module Pods_MyInfo {
+  umbrella header "Pods-MyInfo-umbrella.h"
+
+  export *
+  module * { export * }
+}

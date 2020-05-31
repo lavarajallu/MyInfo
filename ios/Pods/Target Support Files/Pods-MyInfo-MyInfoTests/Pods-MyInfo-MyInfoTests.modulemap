@@ -1,0 +1,6 @@
+module Pods_MyInfo_MyInfoTests {
+  umbrella header "Pods-MyInfo-MyInfoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
